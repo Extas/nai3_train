@@ -1,0 +1,136 @@
+{
+  "role": [
+    {
+      "name": "amiya_(arknights)",
+      "work": "Arknights"
+    },
+    {
+      "name": "skadi_(arknights)",
+      "work": "Arknights"
+    },
+    {
+      "name": "ch'en_(arknights)",
+      "work": "Arknights"
+    },
+    {
+      "name": "suzuran_(arknights)",
+      "work": "Arknights"
+    },
+    {
+      "name": "eyjafjalla_(arknights)",
+      "work": "Arknights"
+    },
+    {
+      "name": "ganyu_(genshin_impact)",
+      "work": "Genshin Impact"
+    },
+    {
+      "name": "lumine_(genshin_impact)",
+      "work": "Genshin Impact"
+    },
+    {
+      "name": "keqing_(genshin_impact)",
+      "work": "Genshin Impact"
+    },
+    {
+      "name": "klee_(genshin_impact)",
+      "work": "Genshin Impact"
+    },
+    {
+      "name": "kamisato_ayato_(genshin_impact)",
+      "work": "Genshin Impact"
+    },
+    {
+      "name": "laffey_(azur_lane)",
+      "work": "Azur Lane"
+    },
+    {
+      "name": "illustrious_(azur_lane)",
+      "work": "Azur Lane"
+    },
+    {
+      "name": "ayanami_(azur_lane)",
+      "work": "Azur Lane"
+    },
+    {
+      "name": "unicorn_(azur_lane)",
+      "work": "Azur Lane"
+    },
+    {
+      "name": "taihou_(azur_lane)",
+      "work": "Azur Lane"
+    },
+    {
+      "name": "silver_wolf_(honkai:_star_rail)",
+      "work": "Honkai: Star Rail"
+    },
+    {
+      "name": "march_7th_(honkai:_star_rail)",
+      "work": "Honkai: Star Rail"
+    },
+    {
+      "name": "yuuka_(blue_archive)",
+      "work": "Blue Archive"
+    },
+    {
+      "name": "aris_(blue_archive)",
+      "work": "Blue Archive"
+    },
+    {
+      "name": "koharu_(blue_archive)",
+      "work": "Blue Archive"
+    },
+    {
+      "name": "hoshino_(blue_archive)",
+      "work": "Blue Archive"
+    },
+    {
+      "name": "mari_(blue_archive)",
+      "work": "Blue Archive"
+    },
+    {
+      "name": "hakurei_reimu",
+      "work": "Touhou Project"
+    },
+    {
+      "name": "kirisame_marisa",
+      "work": "Touhou Project"
+    },
+    {
+      "name": "remilia_scarlet",
+      "work": "Touhou Project"
+    },
+    {
+      "name": "flandre_scarlet",
+      "work": "Touhou Project"
+    },
+    {
+      "name": "izayoi_sakuya",
+      "work": "Touhou Project"
+    },
+    {
+      "name": "komeiji_satori",
+      "work": "Touhou Project"
+    },
+    {
+      "name": "komeiji_koishi",
+      "work": "Touhou Project"
+    },
+    {
+      "name": "alice_margatroid",
+      "work": "Touhou Project"
+    },
+    {
+      "name": "reisen_udongein_inaba",
+      "work": "Touhou Project"
+    },
+    {
+      "name": "konpaku_youmu",
+      "work": "Touhou Project"
+    },
+    {
+      "name": "cirno",
+      "work": "Touhou Project"
+    }
+  ]
+}
